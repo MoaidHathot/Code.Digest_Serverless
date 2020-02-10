@@ -2,6 +2,11 @@
   "IsEncrypted": false,
   "Values": {
     "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=codedigeststoragedemo;AccountKey=vwHMYt7v7IBRnL3P9DjubySges/2I4IaWWfjsXX7dZmG13q+ZusrB+BhjLfPWw3RwtAmxf1IigdrzKbAXVZSfA==;EndpointSuffix=core.windows.net",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ConsumerKey": "SgKqQdkbF8WAyGE8NEMnn8v0r",
+    "ConsumerSecret": "GUFFeIP27GJ0THQoOWQly3FLUddkI2NWpvUyqwpWEOmn37wMj3",
+    "AccessToken": "1225936171655684098-NabechIkVUofk9k6e3HvLvjwOLCGN9",
+    "AccessTokenSecret": "GAJbIyzuZ8Lcq5v3XO3jNKqMi8THu1cLnUMzWcFZTy0qN",
+    "SearchTerm": "#codedigest"
   }
 }
